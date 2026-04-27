@@ -1,14 +1,9 @@
----
-title: Privacy Policy — Kindred
-permalink: /privacy/
----
-
 # Kindred — Privacy Policy
 
 **Effective date:** 25 April 2026
 **Last updated:** 25 April 2026
 **Data controller:** Jay Tanna, 15 Eagles Heath, Bedford, MK42 7NN.
-**Contact:** developed.by.kindred+support@gmail.com
+**Contact:** support@kindredhome.app
 
 > ⚠️ **Owner: this is a starter draft, not legal advice.** It covers the App Store / Play Store / UK GDPR basics so you can publish a URL during phase 4 development. Have a solicitor review it before phase 10 public release.
 
@@ -18,7 +13,7 @@ permalink: /privacy/
 
 Kindred is a household management app made by Jay Tanna. We help families plan meals, share shopping lists, divide chores, and store household recipes. This policy explains what data Kindred collects, why, and what control you have over it.
 
-If you contact us about this policy, write to developed.by.kindred+support@gmail.com.
+If you contact us about this policy, write to support@kindredhome.app.
 
 ## 2. What data we collect
 
@@ -116,13 +111,13 @@ Under UK GDPR (and equivalent under California's CCPA, EU GDPR, etc.) you have t
 - **Withdraw consent** for any consent-based processing (e.g. push notifications) at any time, in Settings.
 - **Complain** to a data protection authority. In the UK that's the Information Commissioner's Office (<https://ico.org.uk>). In the EU, your local DPA.
 
-We respond to rights requests within **30 days**. Email developed.by.kindred+support@gmail.com to make a request.
+We respond to rights requests within **30 days**. Email legal@kindredhome.app to make a request.
 
 ## 7. Children
 
 Kindred is **not directed at children under 13** (under 16 in some EU jurisdictions). Adults can add a "child" role for a family member so the child can tick off chores or view meal plans, but this role exists for in-app access control — we do not knowingly collect personal data from children directly.
 
-If you believe a child has created an account without parental consent, email developed.by.kindred+support@gmail.com and we will delete the account.
+If you believe a child has created an account without parental consent, email legal@kindredhome.app and we will delete the account.
 
 ## 8. Security
 
@@ -150,7 +145,7 @@ Questions, requests, or complaints? Write to:
 
 Jay Tanna
 15 Eagles Heath, Bedford, MK42 7NN
-Email: developed.by.kindred+support@gmail.com
+Email: support@kindredhome.app (general) · legal@kindredhome.app (data-protection / GDPR rights requests)
 
 ---
 
