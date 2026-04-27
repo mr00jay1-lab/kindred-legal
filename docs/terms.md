@@ -1,14 +1,9 @@
----
-title: Terms of Service — Kindred
-permalink: /terms/
----
-
 # Kindred — Terms of Service
 
 **Effective date:** 25 April 2026
 **Last updated:** 25 April 2026
 **Service operator:** Jay Tanna, 15 Eagles Heath, Bedford, MK42 7NN.
-**Contact:** developed.by.kindred+support@gmail.com
+**Contact:** support@kindredhome.app
 
 > ⚠️ **Owner: this is a starter draft, not legal advice.** It covers the App Store / Play Store / UK consumer law basics so you can publish a URL during phase 4 development. Have a solicitor review it before phase 10 public release.
 
@@ -34,7 +29,7 @@ An adult account holder may add a "child" role for a family member under 16 to v
 When you create an account:
 - Provide accurate information (real email, real name).
 - Keep your sign-in credentials confidential. You are responsible for activity on your account.
-- Notify us immediately at developed.by.kindred+support@gmail.com if you suspect unauthorised access.
+- Notify us immediately at support@kindredhome.app if you suspect unauthorised access.
 - Use only one account per person.
 
 You can delete your account any time in **Settings → Account → "Delete my account"**. Deletion removes your personal data within 30 days, per our Privacy Policy.
@@ -83,7 +78,7 @@ We may offer a free trial period (currently 7 days on annual plans for new subsc
 ### 6.5 Refunds
 - **Apple App Store:** refund requests are handled by Apple. Submit at <https://reportaproblem.apple.com/>. Apple's refund policy applies.
 - **Google Play:** refund requests are handled by Google. Submit at <https://play.google.com/store/account/orderhistory>. Google's refund policy applies.
-- We do not process refunds directly. If Apple or Google decline a refund and you believe you are entitled to one under UK or EU consumer law, contact us at developed.by.kindred+support@gmail.com.
+- We do not process refunds directly. If Apple or Google decline a refund and you believe you are entitled to one under UK or EU consumer law, contact us at support@kindredhome.app.
 
 ### 6.6 Right to cancel (UK / EU consumers)
 You normally have a 14-day right to cancel a digital service contract under UK and EU consumer law. By starting to use a Premium or Max feature during this period, you expressly consent to immediate performance and acknowledge that you lose the right to cancel once the feature is used. You can still cancel auto-renewal at any time via the App Store or Google Play.
@@ -164,7 +159,7 @@ We may update these Terms when we add features or are required to by law. The "E
 
 These Terms are governed by the **laws of England and Wales**. Disputes will be heard by the courts of England and Wales, except that consumers may bring proceedings in the courts of the country where they live and may rely on mandatory rules of consumer protection law in their country of residence.
 
-If you have a complaint, please contact us first at developed.by.kindred+support@gmail.com so we can try to resolve it directly.
+If you have a complaint, please contact us first at legal@kindredhome.app so we can try to resolve it directly.
 
 ## 17. Miscellaneous
 
@@ -177,7 +172,7 @@ If you have a complaint, please contact us first at developed.by.kindred+support
 
 Jay Tanna
 15 Eagles Heath, Bedford, MK42 7NN
-Email: developed.by.kindred+support@gmail.com
+Email: support@kindredhome.app (general) · legal@kindredhome.app (legal notices / disputes under §16)
 
 ---
 
