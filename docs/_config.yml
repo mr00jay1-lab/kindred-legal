@@ -2,3 +2,8 @@ title: Kindred — Legal
 description: Privacy policy and terms of service for the Kindred household-management app.
 theme: jekyll-theme-cayman
 permalink: pretty
+
+# Jekyll excludes dot-folders by default; whitelist .well-known so
+# /.well-known/assetlinks.json (Android App Links) is published.
+include:
+  - ".well-known"
